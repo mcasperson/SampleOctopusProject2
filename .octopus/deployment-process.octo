@@ -56,7 +56,7 @@ process {
                         octopus.action.script.scriptbody {
                             Key = "Octopus.Action.Script.ScriptBody"
                             Value {
-                                Value = "echo "hi""
+                                Value = "echo 'hi'"
                                 IsSensitive = false
                                 HasValue = true
                             }
